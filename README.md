@@ -2,7 +2,7 @@
 
 # کمکستان: مبانی برنامه نویسی
 
-[درباره‌ی کمکستان](https://github.com/comakestan/about)
+[درباره‌ی کمکستان](https://github.com/komakestan/about)
 
 ## گواهی‌نامه
 
@@ -10,7 +10,7 @@
 
 ## برای انجام
 
--   <a href="https://github.com/komakestan/fundamentals-of-programming/blob/master/docs/fa/support-team.md">تیم پشتیبانی برای دانشجویان</a>
+-   <a href="https://github.com/muhmah-motahari/fundamentals-of-programming/blob/master/docs/fa/support-team.md">تیم پشتیبانی برای دانشجویان</a>
 
 </div>
 
