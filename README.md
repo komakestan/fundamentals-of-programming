@@ -10,7 +10,7 @@
 
 ## برای انجام
 
--   <a href="https://github.com/muhmah-motahari/fundamentals-of-programming/blob/master/docs/fa/support-team.md">تیم پشتیبانی برای دانشجویان</a>
+-   [تیم پشتیبانی برای دانشجویان](docs/fa/support-team.md)
 
 </div>
 
